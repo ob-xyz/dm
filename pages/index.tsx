@@ -8,7 +8,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>Dead Money</title>
-        <meta name="description" content="Are we in a recession?" />
+        <meta name="description" content="Your daily source into the deadly clash of tech titans" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -18,7 +18,7 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-            <Image src="/dm-logo2.png" alt="Dead Money Logo" width={250} height={100} />
+            <Image src="/dm-logo.png" alt="Dead Money Logo" width={250} height={100} />
         </a>
       </main>
     </div>
