@@ -18,7 +18,7 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-            <Image src="/dm-logo.png" alt="Dead Money Logo" width={200} height={150} />
+            <Image src="/dm-logo2.png" alt="Dead Money Logo" width={400} height={250} />
         </a>
       </main>
     </div>
