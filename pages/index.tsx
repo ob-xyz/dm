@@ -7,8 +7,8 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Dead Money - All the info you need to live a blessed life</title>
-        <meta name="description" content="Dead Money makes it easier to live a blessed life. You're welcome. Get all the info you need day or night, wherever you go." />
+        <title>Dead Money - Daily news for FU money makers</title>
+        <meta name="description" content="Dead Money is a daily newsletter for FU money makers. We cover business, tech, and money moving in Silicon Valley & Wall St." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -18,7 +18,7 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-            <Image src="/dm-logo2.png" alt="Dead Money Logo" width={400} height={250} />
+            <Image src="/dm-logo2.png" alt="Dead Money Logo" width={300} height={155} />
         </a>
       </main>
     </div>
