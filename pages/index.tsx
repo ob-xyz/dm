@@ -7,8 +7,9 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Dead Money - Daily news for FU money makers</title>
-        <meta name="description" content="Dead Money is a daily newsletter for FU money makers. We cover business, tech, & money moves in Silicon Valley & Wall St. Subscribe for free and make money money." />
+        <title>Dead Money - Get smart about money</title>
+        <meta name="description" content="The newsletter that makes you smart about money. 176,348 other readers can't be wrong. 
+                                          Subscribe - it's free." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
