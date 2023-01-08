@@ -7,8 +7,8 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Dead Money - Get smart about money</title>
-        <meta name="description" content="The newsletter that makes you smart about money. 176,348 other readers can't be wrong. 
+        <title>Dead Money - Be smart about money</title>
+        <meta name="description" content="The newsletter that makes you smart about money. 178,348 other readers can't be wrong. 
                                           Subscribe - it's free." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -19,7 +19,7 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-            <Image src="/dm-logo2.png" alt="Dead Money Logo" width={300} height={155} />
+            <Image src="/warning.png" alt="Dead Money Logo" width={250} height={40} />
         </a>
       </main>
     </div>
