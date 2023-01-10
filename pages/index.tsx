@@ -19,7 +19,7 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-            <Image src="/warning.png" alt="Dead Money Logo" width={250} height={40} />
+            <Image src="/WARNING.png" alt="Dead Money Logo" width={250} height={40} />
         </a>
       </main>
     </div>
