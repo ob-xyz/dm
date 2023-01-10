@@ -17,8 +17,7 @@ const Home: NextPage = () => {
         <a
           href="https://www.youtube.com/channel/UCCy9pBVQn1yVm5y3_mb4XrQ"
           target="_blank"
-          rel="noopener noreferrer"
-        >
+          rel="noopener noreferrer">
             <Image src="/WARNING.png" alt="Dead Money Logo" width={250} height={40} />
         </a>
       </main>
