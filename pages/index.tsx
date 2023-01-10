@@ -8,8 +8,8 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>Dead Money - Be smart about money</title>
-        <meta name="description" content="The newsletter that makes you smart about money. 178,348 other readers can't be wrong. 
-                                          Subscribe - it's free." />
+        <meta name="description" content="The newsletter that makes you smart about money. 180,628 degen readers can't be wrong. 
+                                          Subscribe now - it's free." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
