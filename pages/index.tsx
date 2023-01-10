@@ -15,7 +15,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <a
-          href="https://www.youtube.com/channel/UCCy9pBVQn1yVm5y3_mb4XrQ"
+          href="https://www.youtube.com/@deadmoneydaily"
           target="_blank"
           rel="noopener noreferrer">
             <Image src="/WARNING.png" alt="Dead Money Logo" width={250} height={40} />
