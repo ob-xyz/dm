@@ -1,7 +1,7 @@
 export default function Index() {
   return (
     <div className="container">
-      <h1>BAL.</h1>
+      <h1>Coming soon.</h1>
     </div>
   );
 }

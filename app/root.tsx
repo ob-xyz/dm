@@ -27,8 +27,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "BAL.",
-  description: "Bits Atoms Life is a free newsletter read by 300,000+ BAL'ers who like to BAL.",
+  title: "Dead Money",
+  description: "Deadly irrelevant news from Wallstreetbets to Sand Hill Road. Join 300,000+ degenerates who can't lose.",
   viewport: "width=device-width,initial-scale=1",
 });
 
