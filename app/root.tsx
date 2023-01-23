@@ -28,7 +28,7 @@ export const links: LinksFunction = () => {
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "Dead Money",
-  description: "Deadly irrelevant news from Wallstreetbets to Sand Hill Road. Join 300,000+ degenerates who can't lose.",
+  description: "Deadly irrelevant news from Wallstreetbets to Sand Hill Road. Join 300,000+ degenerates that can't lose.",
   viewport: "width=device-width,initial-scale=1",
 });
 
