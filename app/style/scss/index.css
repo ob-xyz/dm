@@ -1,16 +1,20 @@
 .container {
-  height: 97.5vh;
+  height: 91.5vh;
   display: flex;
   justify-content: center;
-  align-content: center;
+  flex-direction: column;
 }
-.container h1 {
-  font-family: book;
-  font-size: 1.1rem;
+.container .inner-container {
+  display: flex;
+  flex-direction: column;
 }
-.container img {
-  height: auto;
+.container .inner-container img {
   max-width: 13rem;
+}
+.container .inner-container p {
+  font-size: 0.9rem;
+  margin-top: -2.75rem;
+  color: rgb(243, 22, 22);
 }
 
 /*# sourceMappingURL=index.css.map */
