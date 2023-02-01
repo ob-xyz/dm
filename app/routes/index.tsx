@@ -5,7 +5,6 @@ export default function Index() {
     <div className="container">
       <div className="inner-container">
         <img src={logo} />
-        <p>(invite only)</p>
       </div>
     </div>
   );
