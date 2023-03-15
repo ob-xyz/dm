@@ -1,20 +1,17 @@
-.container {
-  height: 91.5vh;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-}
-.container .inner-container {
-  display: flex;
-  flex-direction: column;
-}
-.container .inner-container img {
-  max-width: 13rem;
-}
-.container .inner-container p {
-  font-size: 0.9rem;
-  margin-top: -2.75rem;
-  color: rgb(243, 22, 22);
-}
+/* Error: Undefined variable.
+ *    ,
+ * 18 |             color: $white;
+ *    |                    ^^^^^^
+ *    '
+ *   app/style/scss/index.scss 18:20  root stylesheet */
 
-/*# sourceMappingURL=index.css.map */
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined variable.\a    \2577 \a 18 \2502              color: $white;\a    \2502                     ^^^^^^\a    \2575 \a   app/style/scss/index.scss 18:20  root stylesheet";
+}

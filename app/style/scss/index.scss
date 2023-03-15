@@ -1,5 +1,5 @@
 .container{
-    height: 91.5vh;
+    height: 87.5vh;
     display:flex;
     justify-content: center;
     flex-direction: column;
@@ -7,12 +7,15 @@
         display: flex;
         flex-direction: column;
         img{
-            max-width: 13rem;
+            max-width: 20rem;
+            margin-left: -.25rem;
         }
-        p{
-            font-size: .9rem;
-            margin-top: -2.75rem;
-            color: rgb(243, 22, 22);
+        h1{
+            margin-top: 2rem;
+            width:22rem;
+            text-align: center;
+            font-size:1rem;
+            color: $white;
         }
 
     }
