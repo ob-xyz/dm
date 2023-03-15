@@ -5,7 +5,7 @@ export default function Index() {
     <div className="container">
       <div className="inner-container">
         <img src={logo} />
-        <h1> Ari. <br></br>I promise will drive a lot of traffic to Fanatics. Our audience will be yours. <br></br>You have my word.</h1>
+        <h1> Ari. <br></br>I promise we will drive a lot of traffic to Fanatics. Our audience will be yours. <br></br>You have my word.</h1>
       </div>
     </div>
   );
