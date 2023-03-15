@@ -137,6 +137,7 @@ var fan_default = "/build/_assets/fan-K4G7OC4X.png";
 // app/routes/index.tsx
 var import_jsx_dev_runtime3 = require("react/jsx-dev-runtime");
 function Index() {
+<<<<<<< HEAD
   return /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "inner-container", children: [
     /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("img", { src: fan_default }, void 0, !1, {
       fileName: "app/routes/index.tsx",
@@ -163,18 +164,29 @@ function Index() {
       columnNumber: 9
     }, this)
   ] }, void 0, !0, {
+=======
+  return /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "inner-container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("img", { src: dm2_default }, void 0, !1, {
     fileName: "app/routes/index.tsx",
-    lineNumber: 6,
+    lineNumber: 8,
+    columnNumber: 9
+  }, this) }, void 0, !1, {
+>>>>>>> parent of 5ebe22b6 (x)
+    fileName: "app/routes/index.tsx",
+    lineNumber: 7,
     columnNumber: 7
   }, this) }, void 0, !1, {
     fileName: "app/routes/index.tsx",
-    lineNumber: 5,
+    lineNumber: 6,
     columnNumber: 5
   }, this);
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
+<<<<<<< HEAD
 var assets_manifest_default = { version: "977e89fd", entry: { module: "/build/entry.client-3Z3BMBC7.js", imports: ["/build/_shared/chunk-TY4X4K57.js", "/build/_shared/chunk-EETRBLDB.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-HVM7D4KP.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-XXPVPGKQ.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, cssBundleHref: void 0, url: "/build/manifest-977E89FD.js" };
+=======
+var assets_manifest_default = { version: "c4fc1f63", entry: { module: "/build/entry.client-3Z3BMBC7.js", imports: ["/build/_shared/chunk-TY4X4K57.js", "/build/_shared/chunk-EETRBLDB.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-UV7OZY6T.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-U727264P.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, cssBundleHref: void 0, url: "/build/manifest-C4FC1F63.js" };
+>>>>>>> parent of 5ebe22b6 (x)
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { unstable_cssModules: !1, unstable_cssSideEffectImports: !1, unstable_vanillaExtract: !1, v2_errorBoundary: !1, v2_meta: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {

@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 import logo from "~/../public/img/fan.png";
+=======
+import logo from "~/../public/img/dm2.png";
+import { Link } from "@remix-run/react";
+>>>>>>> parent of 5ebe22b6 (x)
 
 export default function Index() {
   return (
