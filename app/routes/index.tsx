@@ -1,4 +1,4 @@
-import logo from "~/../public/img/dm2.png";
+import logo from "~/../public/img/ja.png";
 
 export default function Index() {
   return (
