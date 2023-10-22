@@ -27,8 +27,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Jeff Amzn",
-  description: "The newsletter for some of the most influential people in America.",
+  title: "Subscribe to the Jeff Amzn Newsletter - Jeff Amzn",
+  description: "Jeff Amzn is a free newsletter for some of the most influential people in America.",
   viewport: "width=device-width,initial-scale=1",
 });
 
