@@ -5,6 +5,7 @@ export default function Index() {
     <div className="container">
       <div className="inner-container">
         <img src={logo} />
+      <a className="in" href="https://app.jeffamzn.com/subscription/form">Subscribe</a>
       </div>
     </div>
   );
